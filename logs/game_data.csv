@@ -11,3 +11,4 @@ Game_ID,Timestamp,Winner,Player_X,Player_O,Mode,Moves_Played_X,Moves_Played_O
 20231128155142,2023-11-28 15:51:42.152532,O,Human,Human,two,3,3
 20231128155157,2023-11-28 15:51:57.621244,X,Bot,Human,single,3,2
 20231128155214,2023-11-28 15:52:14.366523,X,Bot,Human,single,3,2
+20231128180012,2023-11-28 18:00:12.370047,X,Bot,Human,single,3,2
